@@ -128,3 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+
+# Plots
+.DS_Store
+*.png
+*.pdf
